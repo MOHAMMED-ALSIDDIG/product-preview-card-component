@@ -59,12 +59,12 @@ p {
     letter-spacing: 5px;
     text-transform: uppercase;
     margin-bottom: 20px;
-   line-height: 175rem;
 }
 .content h1 {
     font-size: 32px;
     margin-bottom: 20px;
     font-family: 'Fraunces', 'Montserrat';
+    line-height: 1.75rem;
 }
 .content .p-main {
     line-height: 1.5rem;

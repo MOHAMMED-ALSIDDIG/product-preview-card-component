@@ -31,6 +31,7 @@ section {
     align-items: center;
     border-radius: 10px;
     background-color: #fff;
+    
 }
 .container .image-container {
     max-width: 300px;
@@ -62,13 +63,13 @@ p {
 }
 .content h1 {
     font-size: 32px;
-    margin-bottom: 20px;
+    margin-bottom: 18px;
     font-family: 'Fraunces', 'Montserrat';
-    line-height: 1.75rem;
+    line-height: 1.85rem;
 }
 .content .p-main {
     line-height: 1.5rem;
-    margin-bottom: 22px;
+    margin-bottom: 30px;
 }
 .price{
     width: 100%;
